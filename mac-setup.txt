@@ -37,6 +37,11 @@ brew install wget
 brew install jenv
 brew install node
 
+Configure git:
+git config --global user.name "Carlton Schuyler"
+git config --global user.email carl@dragnon.com
+git config --global branch.autoSetupRebase always
+
 cat >> ~/.profile <<'EOF'
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
