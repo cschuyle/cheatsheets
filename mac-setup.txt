@@ -1,4 +1,8 @@
-Keyboard: repeat speed and delay
+Keyboard:
+    repeat speed and delay
+    Shortcuts / Services - remove cmd-shift-A for man page
+
+Date Time - 24 hour, show date
 
 Mac app store:
 flycut
