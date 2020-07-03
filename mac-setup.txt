@@ -3,8 +3,14 @@ Keyboard:
     Shortcuts / Services - remove cmd-shift-A for man page
 
 Add home directory to favorites in Finder
+    open $HOME/..
+    drag home folder into the favs
 
-Date Time - 24 hour, show date
+Settings / Don't update OS automatically
+
+Settings / Don't update App Store apps automatically
+
+Settings / Date Time - 24 hour, show date
 
 Chrome
 
@@ -55,6 +61,7 @@ alias gs='git status'
 EOF
 
 Configure git:
+
 git config --global user.name "Jabba the Hutt"
 git config --global user.email jabba@thehutt.nalhutta
 git config --global branch.autoSetupRebase always
@@ -80,7 +87,8 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 EOF
 
 Java 14:
-wget https://download.java.net/java/GA/jdk14.0.1/664493ef4a6946b186ff29eb326336a2/7/GPL/openjdk-14.0.1_osx-x64_bin.tar.gz
+
+curl https://download.java.net/java/GA/jdk14.0.1/664493ef4a6946b186ff29eb326336a2/7/GPL/openjdk-14.0.1_osx-x64_bin.tar.gz > openjdk-14.0.1_osx-x64_bin.tar.gz
 tar xzf openjdk-14.0.1_osx-x64_bin.tar.gz
 mv jdk-14.0.1.jdk/ ~
 
@@ -97,7 +105,7 @@ jenv global 14
 
 EOF
 
-# Maybe not everyone's cuppa tea
+# Maybe not everyone's cuppa tea:
 
 WhatsApp
 
