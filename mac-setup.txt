@@ -2,20 +2,23 @@ Keyboard:
     repeat speed and delay
     Shortcuts / Services - remove cmd-shift-A for man page
 
+Add home directory to favorites in Finder
+
 Date Time - 24 hour, show date
 
-Mac app store:
-flycut
+Chrome
+
+Flycut
 
 iTerm2
 
-Handbrake
-
 IntelliJ
 
-WhatsApp
-
 ssh-keygen -t ecdsa -b 521
+
+export EDITOR=emacs
+
+xcode-select --install
 
 install brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
@@ -36,13 +39,42 @@ brew install python
 brew install wget
 brew install jenv
 brew install node
-
-Configure git:
-git config --global user.name "Carlton Schuyler"
-git config --global user.email carl@dragnon.com
-git config --global branch.autoSetupRebase always
+brew install watch
+brew install tre # for agrep. https://github.com/laurikari/tre
+brew install minikube
+brew install kubernetes-cli
+brew tap heroku/brew && brew install heroku
 
 cat >> ~/.profile <<'EOF'
+# The Cool Kids all do it with a k solo
+alias k=kubectl
+
+# Also makes it nice to not launch GhostScript in case it's installed
+alias gs='git status'
+
+EOF
+
+Configure git:
+git config --global user.name "Jabba the Hutt"
+git config --global user.email jabba@thehutt.nalhutta
+git config --global branch.autoSetupRebase always
+git config --global pull.rebase true
+
+git lola:
+
+cat >> ~/.gitconfig <<'EOF'
+[alias]
+        lol = log --graph --decorate --pretty=oneline --abbrev-commit
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
+EOF
+
+cat >> ~/.profile <<'EOF'
+# Because, Catalina wants to force zsh on me
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
 EOF
@@ -51,15 +83,27 @@ Java 14:
 wget https://download.java.net/java/GA/jdk14.0.1/664493ef4a6946b186ff29eb326336a2/7/GPL/openjdk-14.0.1_osx-x64_bin.tar.gz
 tar xzf openjdk-14.0.1_osx-x64_bin.tar.gz
 mv jdk-14.0.1.jdk/ ~
+
 cat >> ~/.profile <<'EOF'
+# Java 14
 export JAVA_HOME="$HOME/jdk-14.0.1.jdk/Contents/Home"
 
 EOF
 
 cat >> ~/.profile <<'EOF'
+# Let's use Java 14 by default shall we
 eval "$(jenv init -)"
-
 jenv global 14
 
 EOF
+
+# Maybe not everyone's cuppa tea
+
+WhatsApp
+
+Handbrake
+
+Spotify
+
+Log into pinboard.in, get API key, set it in Chrome plugin
 
