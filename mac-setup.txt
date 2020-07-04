@@ -2,9 +2,13 @@ Keyboard:
     repeat speed and delay
     Shortcuts / Services - remove cmd-shift-A for man page
 
-Add home directory to favorites in Finder
-    open $HOME/..
-    drag home folder into the favs
+Add home directory to Finder sidebar
+    $ open $HOME/..
+    drag home folder into the sidebar
+
+Remove iCloud Drive, All my Files and other crap from Finder sidebar
+
+Finder perefernces / Advanced / SHow all filename extensions
 
 Settings / Don't update OS automatically
 
@@ -29,6 +33,35 @@ xcode-select --install
 install brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+brew install jenv
+
+# Because sometimes you need to suck it and use JDK 6
+https://support.apple.com/kb/DL1572?locale=en_US
+
+
+Java 14:
+
+curl https://download.java.net/java/GA/jdk14.0.1/664493ef4a6946b186ff29eb326336a2/7/GPL/openjdk-14.0.1_osx-x64_bin.tar.gz > openjdk-14.0.1_osx-x64_bin.tar.gz
+tar xzf openjdk-14.0.1_osx-x64_bin.tar.gz
+mv jdk-14.0.1.jdk/ ~
+
+cat >> ~/.profile <<'EOF'
+# Java 14
+export JAVA_HOME="$HOME/jdk-14.0.1.jdk/Contents/Home"
+
+EOF
+
+If you're into jenv:
+
+jenv add jdk-14.0.1.jdk/Contents/Home
+
+cat >> ~/.profile <<'EOF'
+# Let's use Java 14 by default shall we
+eval "$(jenv init -)"
+jenv global 14
+
+EOF
+
 brew install emacs
 brew install git
 brew install gradle
@@ -43,6 +76,7 @@ brew install libdvdcss
 brew install csvkit
 brew install python
 brew install wget
+brew install httpie
 brew install jenv
 brew install node
 brew install watch
@@ -86,24 +120,6 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 
 EOF
 
-Java 14:
-
-curl https://download.java.net/java/GA/jdk14.0.1/664493ef4a6946b186ff29eb326336a2/7/GPL/openjdk-14.0.1_osx-x64_bin.tar.gz > openjdk-14.0.1_osx-x64_bin.tar.gz
-tar xzf openjdk-14.0.1_osx-x64_bin.tar.gz
-mv jdk-14.0.1.jdk/ ~
-
-cat >> ~/.profile <<'EOF'
-# Java 14
-export JAVA_HOME="$HOME/jdk-14.0.1.jdk/Contents/Home"
-
-EOF
-
-cat >> ~/.profile <<'EOF'
-# Let's use Java 14 by default shall we
-eval "$(jenv init -)"
-jenv global 14
-
-EOF
 
 # Maybe not everyone's cuppa tea:
 
@@ -114,4 +130,6 @@ Handbrake
 Spotify
 
 Log into pinboard.in, get API key, set it in Chrome plugin
+
+Command-K in Finder and connect to afp://192.168.1.wherever-the-synology-is-DHCPd-today
 
