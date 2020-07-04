@@ -1,6 +1,11 @@
+## Ooooh I got a new mac
+
+Now I get to set all the stuff up
+
 ### Settings / Keyboard
-    - Repeat speed and delay all the way to the right
-    - Shortcuts / Services - remove cmd-shift-A for man page
+
+- Repeat speed and delay all the way to the right
+- Shortcuts / Services - remove cmd-shift-A for man page
 
 ### Finder config
 - Add home directory to Finder sidebar
