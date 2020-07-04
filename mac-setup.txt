@@ -30,7 +30,15 @@ ssh-keygen -t ecdsa -b 521
 
 export EDITOR=emacs
 
-xcode-select --install
+# Just in case there's an xcode, blow it away and reinstall it, because often it's effd up
+
+$ xcode-select -p
+/Library/Developer/CommandLineTools
+# That was just to see where the erxisting xcode is, to now remove it:
+$ sudo rm -rf /Library/Developer/CommandLineTools
+Password:
+$ xcode-select --install
+xcode-select: note: install requested for command line developer tools
 
 install brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
