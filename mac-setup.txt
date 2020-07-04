@@ -26,6 +26,8 @@ IntelliJ
 
 Slack
 
+Zoom
+
 ssh-keygen -t ecdsa -b 521
 
 # Just in case there's an xcode, blow it away and reinstall it, because often it's effd up
