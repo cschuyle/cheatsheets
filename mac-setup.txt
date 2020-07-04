@@ -28,8 +28,6 @@ Slack
 
 ssh-keygen -t ecdsa -b 521
 
-export EDITOR=emacs
-
 # Just in case there's an xcode, blow it away and reinstall it, because often it's effd up
 
 $ xcode-select -p
@@ -42,8 +40,6 @@ xcode-select: note: install requested for command line developer tools
 
 install brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
-brew install jenv
 
 # Because sometimes you need to suck it and use JDK 6
 https://support.apple.com/kb/DL1572?locale=en_US
@@ -63,6 +59,8 @@ EOF
 
 If you're into jenv:
 
+brew install jenv
+
 jenv add jdk-14.0.1.jdk/Contents/Home
 
 cat >> ~/.profile <<'EOF'
@@ -75,6 +73,7 @@ EOF
 brew install emacs
 brew install git
 brew install gradle
+brew install maven
 brew install the_silver_searcher
 brew install libidn2
 brew install xmlstarlet
@@ -146,3 +145,9 @@ Command-K in Finder and connect to afp://192.168.1.wherever-the-synology-is-DHCP
 ExpressVPN
 
 GlobalProtect - you'll need to allow it in System Settings / Security or else it'll hang seemingly inexplicably forever when connectin
+
+cat >> ~/.profile <<'EOF'
+# I Like Emacs I cannot Lie
+export EDITOR=emacs
+
+EOF
