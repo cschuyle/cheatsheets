@@ -21,9 +21,24 @@ Chrome
 Flycut
 
 iTerm2
+Config:
+    Preferences / Profiles
+        Enable pixel sub-aliasing
+        20,000 line scrollback
+        About 10% transparent
+    Preferences / Appearance
+        Show border around windows
 
 IntelliJ
-
+    Plugins
+        Kubernetes
+        Go Template
+        Key Promoter X
+        Logtalk
+        Perl
+        Scala
+        Cursive (clojre plugin) (must be done through website because, agreement - search the googles)
+        
 Slack
 
 Zoom
