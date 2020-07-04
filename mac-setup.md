@@ -230,7 +230,7 @@ brew install bash
     sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
     ```
 4.  Make sure it gets loaded for new terminals
-    ```aidl
+    ```
     cat >>~/.bash_profile <<'EOF'
     [[ -s ~/.bashrc ]] && source ~/.bashrc
     EOF
@@ -241,4 +241,6 @@ brew install bash
     ```
     cat >> ~/.oh-my-bash/custom/extras.sh <<'EOF'
     [[ -s ~/.profile ]] && source ~/.profile
+    EOF
     ```
+    
