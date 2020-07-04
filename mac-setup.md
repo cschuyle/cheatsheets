@@ -1,6 +1,7 @@
-## Ooooh I got a new mac
+## Ooooh I got a new Mac
 
-Now I get to set all the stuff up
+Now I get to set all the stuff up!
+It's _way_ better than Christmas
 
 ### Settings / Keyboard
 
@@ -16,7 +17,7 @@ Now I get to set all the stuff up
 
 - Finder preferences / Advanced / Show all filename extensions
 
-### Misc
+### Misc System Settings
 
 - Settings / Don't update OS automatically
 
@@ -46,7 +47,7 @@ Now I get to set all the stuff up
         - Perl
         - Scala
 
-###  `ssh-keygen -t ecdsa -b 521`
+### `ssh-keygen -t ecdsa -b 521`
 
 ### Slack
 
@@ -70,7 +71,6 @@ xcode-select --install
 ### Because sometimes you need to suck it and use JDK 6
 <https://support.apple.com/kb/DL1572?locale=en_US>
 
-
 ### Java 14
 
 ```
@@ -85,6 +85,11 @@ cat >> ~/.profile <<'EOF'
 export JAVA_HOME="$HOME/jdk-14.0.1.jdk/Contents/Home"
 
 EOF
+```
+
+### Homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 ### jenv
@@ -102,11 +107,7 @@ jenv global 14
 EOF
 ```
 
-### Homebrew
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
-I like these:
+### Lots of Homebrew stuff
 
 ```
 brew install emacs
@@ -219,29 +220,32 @@ brew install leiningen
 
 1.  Upgrade `bash`
 
-```
-brew install bash
-```
+    ```
+    brew install bash
+    ```
 
-2.  Edit `/private/etc/shells` and add `/usr/local/bin/bash` at the bottom of the list
+1.  Edit `/private/etc/shells` and add `/usr/local/bin/bash` at the bottom of the list
 
+1.  Set your shell to the new `bash`    
     ```
     sudo chpass -s /usr/local/bin/bash $(whoami)
     ```
-3.  Install `oh-my-bash`, but the web page says to use sh to execute the `curl`-ed script,
-    but that will probably not work, so use bash instead:
+
+1.  Install `oh-my-bash`, but the web page says to use sh to execute the `curl`-ed script,
+    but that will probably not work, so use bash instead (copied from the install webpage, but change the first command from `sh` to `bash`):
 
     ```
-    sh -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+    bash -c "$(curl -fsSL https://raw.github.com/ohmybash/oh-my-bash/master/tools/install.sh)"
     ```
-4.  Make sure it gets loaded for new terminals
+
+1.  Make sure it gets loaded for new terminals
     ```
     cat >>~/.bash_profile <<'EOF'
     [[ -s ~/.bashrc ]] && source ~/.bashrc
     EOF
     ```
     
-5.  All that crap you put in `.profile` - make sure it is neither forgotten nor stale
+1.  All that crap you put in `.profile` - make sure it is neither forgotten nor stale
 
     ```
     cat >> ~/.oh-my-bash/custom/extras.sh <<'EOF'
