@@ -130,9 +130,16 @@ brew install jenv
 brew install node
 brew install watch
 brew install tre # for agrep. https://github.com/laurikari/tre
-brew install minikube
 brew install kubernetes-cli
 brew tap heroku/brew && brew install heroku
+brew install perl
+brew install gdub
+brew install coreutils
+```
+
+```
+brew install minikube
+minikube start # This takes a while to bootstrap - get it out of the way now
 ```
 
 ### Some aliases
@@ -194,6 +201,12 @@ EOF
 
 ### ExpressVPN
 
+### StockSpy realtime stock quotes
+
+### Discord
+
+### Moom or Divvy
+
 ### GlobalProtect
 You'll need to allow it in System Settings / Security or else it'll hang seemingly inexplicably forever when connectin
 
@@ -252,4 +265,3 @@ brew install leiningen
     [[ -s ~/.profile ]] && source ~/.profile
     EOF
     ```
-    
