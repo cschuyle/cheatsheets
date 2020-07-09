@@ -24,3 +24,7 @@ If you don't have the `realpath` command, which transforms a filename to canonic
 filename=$(cd $(dirname "$filename") && pwd)/$(basename "$filename")
 ```
 
+Remove files matching a regex from a file
+```
+perl -i -sn -e 'print unless /this regex/' file
+```

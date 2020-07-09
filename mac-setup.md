@@ -1,4 +1,4 @@
-## Ooooh I got a new Mac
+# Ooooh I got a new Mac
 
 Now I get to set all the stuff up!
 It's _way_ better than Christmas
@@ -7,7 +7,9 @@ It's _way_ better than Christmas
 
 - Repeat speed and delay all the way to the right
 - Shortcuts / Services - remove cmd-shift-A for man page
-
+- System Preferences > Keyboard. Click the Modifier Keys..., maps caps lock to Esc.
+  Do it for each separate keyboard (external, built-in)
+  
 ### Finder config
 - Add home directory to Finder sidebar
     - `open $HOME/..`
@@ -15,7 +17,14 @@ It's _way_ better than Christmas
 
 - Remove iCloud Drive, All my Files and other crap from Finder sidebar
 
-- Finder preferences / Advanced / Show all filename extensions
+- Finder Preferences 
+    - Advanced / Show all filename extensions
+    - 
+```
+sudo chflags nohidden /
+write com.apple.finder AppleShowAllFiles TRUE
+```
+You need to logout and back in for that last one to take effect
 
 ### Misc System Settings
 
@@ -25,6 +34,10 @@ It's _way_ better than Christmas
 
 - Settings / Date Time - 24 hour, show date
 
+- Apple Music
+    - Do not copy files when importing
+    - Import using Custom / MP3 / VBR / 320Kbps
+    
 ### Chrome
 
 ### Flycut
@@ -192,6 +205,9 @@ EOF
 ### WhatsApp
 
 ### Handbrake
+Set new default preset:
+- All subtitles
+- All audio
 
 ### Spotify
 
@@ -265,3 +281,15 @@ brew install leiningen
     [[ -s ~/.profile ]] && source ~/.profile
     EOF
     ```
+# Day 2
+
+Why does this not work to mount an AFP directory from my Synology?
+```
+sudo mkdir -p /Volumes/$DIR && sudo chown $(whoami) /Volumes/$DIR  && sudo mount_afp afp://"'$USER'":"'$PASS'"@$IP/$DIR /Volumes/$DIR
+```
+This mounts the directory, but trying to access it results in `Permission Denied`.
+
+The problem appears to be that the owner of the `/Volumes/$DIR` directory is root,
+and it's impossible to chown or chmod it.
+
+When you do the mount using Cmd-K from Finder, the owner is me (not root) and everything is hunky dory.
