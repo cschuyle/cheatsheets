@@ -11,19 +11,26 @@ It's _way_ better than Christmas
   Do it for each separate keyboard (external, built-in)
   
 ### Finder config
-- Add home directory to Finder sidebar
-    - `open $HOME/..`
-    - Drag home folder into the sidebar
+-   Add home directory to Finder sidebar
+    -   `open $HOME/..`
+    -   Drag home folder into the sidebar
 
-- Remove iCloud Drive, All my Files and other crap from Finder sidebar
+-   Remove iCloud Drive, All my Files and other crap from Finder sidebar
 
-- Finder Preferences 
-    - Advanced / Show all filename extensions
-    - 
+-   Finder Preferences 
+    -   Advanced / Show all filename extensions
+    -   Advanced / When performing a search / Search the current folder
+    
+-   Open Finder, select Gallery view (the one with pictures), View / Show view options / Thumbnail size: select largest.
+    Also, select Show filename
+    
+-   Click `Use as Defaults` button
+
 ```
 sudo chflags nohidden /
 write com.apple.finder AppleShowAllFiles TRUE
 ```
+
 You need to logout and back in for that last one to take effect
 
 ### Misc System Settings
@@ -41,6 +48,9 @@ You need to logout and back in for that last one to take effect
 ### Chrome
 
 ### Flycut
+Also System Settings / Login Items, add Flycut to the apps that startup at login time
+
+### VNC
 
 ### iTerm2
 - Config:
