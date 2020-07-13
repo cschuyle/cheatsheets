@@ -133,20 +133,22 @@ EOF
 ### Lots of Homebrew stuff
 
 ```
+brew install openssl readline sqlite3 xz zlib # Yeah the follwing ones will transitively install all that xcept zlib, but it makes me feel good to install the libs first
+brew install perl
+brew install python
 brew install emacs
+brew install gnu-sed
+brew install findutils
 brew install git
 brew install gradle
 brew install maven
 brew install the_silver_searcher
 brew install libidn2
 brew install xmlstarlet
-brew install findutils
 brew install tree
 brew install jq
-brew install gnu-sed
 brew install libdvdcss
 brew install csvkit
-brew install python
 brew install wget
 brew install httpie
 brew install jenv
@@ -155,7 +157,6 @@ brew install watch
 brew install tre # for agrep. https://github.com/laurikari/tre
 brew install kubernetes-cli
 brew tap heroku/brew && brew install heroku
-brew install perl
 brew install gdub
 brew install coreutils
 ```
@@ -254,6 +255,21 @@ brew install leiningen
 - IntelliJ
     - Plugins
         - Cursive (clojure plugin) (must be done through website because, agreement - search the googles)
+
+### python
+
+I like `pyenv`
+
+```bash
+brew install pyenv
+pyenv install 2.7.18
+pyenv install 3.8.3 
+```
+
+*BUT* it conflicts with `brew`, so add this to `.bashrc` or wherever you put your aliases:
+```
+alias brew="env PATH=${PATH//$(pyenv root)\/shims:/} brew" # from https://github.com/pyenv/pyenv/issues/106
+```
 
 ### oh-my-bash
 
