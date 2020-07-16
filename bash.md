@@ -15,7 +15,7 @@ Script boilerplate:
 set -o errexit # set -e
 set -o nounset # set -u
 set -o pipefail
-dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 script_file=$(basename "$0")
 ```
 
@@ -24,7 +24,3 @@ If you don't have the `realpath` command, which transforms a filename to canonic
 filename=$(cd $(dirname "$filename") && pwd)/$(basename "$filename")
 ```
 
-Remove files matching a regex from a file
-```
-perl -i -sn -e 'print unless /this regex/' file
-```

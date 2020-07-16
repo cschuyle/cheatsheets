@@ -91,6 +91,10 @@ sudo rm -rf /Library/Developer/CommandLineTools
 xcode-select --install
 ```
 
+### SourceTree
+
+<https://www.sourcetreeapp.com/>
+
 ### Because sometimes you need to suck it and use JDK 6
 <https://support.apple.com/kb/DL1572?locale=en_US>
 
@@ -159,6 +163,14 @@ brew install kubernetes-cli
 brew tap heroku/brew && brew install heroku
 brew install gdub
 brew install coreutils
+brew install bcrypt
+brew install gnu-tar
+```
+
+```bash
+brew cask install WebPQuickLook
+# Then allow it in System Setting / Security, or from the command line:
+xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator
 ```
 
 ```
@@ -255,7 +267,8 @@ brew install leiningen
 - IntelliJ
     - Plugins
         - Cursive (clojure plugin) (must be done through website because, agreement - search the googles)
-
+        - Elm
+        
 ### python
 
 I like `pyenv`
@@ -279,6 +292,12 @@ alias brew="env PATH=${PATH//$(pyenv root)\/shims:/} brew" # from https://github
     brew install bash
     ```
 
+1.  Set remote to my fork
+    ```bash
+    git remote remove origin
+    git remote add origin git@github.com:cschuyle/oh-my-bash.git
+    ```
+    
 1.  Edit `/private/etc/shells` and add `/usr/local/bin/bash` at the bottom of the list
 
 1.  Set your shell to the new `bash`    
@@ -307,6 +326,15 @@ alias brew="env PATH=${PATH//$(pyenv root)\/shims:/} brew" # from https://github
     [[ -s ~/.profile ]] && source ~/.profile
     EOF
     ```
+    
+### Elm
+
+[Mac Elm installer](https://github.com/elm/compiler/releases/download/0.19.0/installer-for-mac.pkg)
+```bash
+brew install elm-format
+npm install -g elm-test
+```
+
 # Day 2
 
 Why does this not work to mount an AFP directory from my Synology?
