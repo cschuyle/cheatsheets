@@ -257,6 +257,18 @@ export EDITOR=emacs
 EOF
 ```
 
+### Twitter
+
+### Kindle reader 
+
+### <https://krisp.ai/>
+
+### Musique? VOX?
+
+Because the Music app on Catalina is all kinds of broken for me
+- Doesn't allow me to download artwork even though I'm logged in to my Aple account
+- Doesn't sync when I change the music folder location
+
 ### Clojure
 
 ```
