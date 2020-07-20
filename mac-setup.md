@@ -234,6 +234,16 @@ Set new default preset:
 
 ### Spotify
 
+Setup local files
+
+Because the Music app on Catalina is all kinds of broken for me
+- Doesn't allow me to download artwork even though I'm logged in to my Aple account
+- Doesn't sync when I change the music folder location
+
+Still can't get artwork like I want, esp for the screensaver.
+
+Tried Vox and Musique.   But Spotify won so far.
+
 ### Log into <https://pinboard.in>, get API key, set it in Chrome plugin
 
 ### Command-K in Finder and connect to `afp://192.168.1.wherever-the-synology-is-DHCPd-today`
@@ -263,11 +273,6 @@ EOF
 
 ### <https://krisp.ai/>
 
-### Musique? VOX?
-
-Because the Music app on Catalina is all kinds of broken for me
-- Doesn't allow me to download artwork even though I'm logged in to my Aple account
-- Doesn't sync when I change the music folder location
 
 ### Clojure
 
