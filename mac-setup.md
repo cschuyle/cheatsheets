@@ -244,6 +244,8 @@ Still can't get artwork like I want, esp for the screensaver.
 
 Tried Vox and Musique.   But Spotify won so far.
 
+### https://www.seense.com/the_clock/
+
 ### Log into <https://pinboard.in>, get API key, set it in Chrome plugin
 
 ### Command-K in Finder and connect to `afp://192.168.1.wherever-the-synology-is-DHCPd-today`
