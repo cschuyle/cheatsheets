@@ -74,7 +74,16 @@ Also System Settings / Login Items, add Flycut to the apps that startup at login
 
 ### Slack
 
+Put messages at top
+Hummus
+...
+
 ### Zoom
+- Improve appearance
+- mute and no video
+...
+
+Accessibility / Zoom / Enable ouch Bar zoom
 
 ### Xcode
 Just in case there's an xcode, blow it away and reinstall it, because often it's effd up
@@ -246,6 +255,8 @@ Tried Vox and Musique.   But Spotify won so far.
 
 ### https://www.seense.com/the_clock/
 
+Multi-timezone clock.
+
 ### Log into <https://pinboard.in>, get API key, set it in Chrome plugin
 
 ### Command-K in Finder and connect to `afp://192.168.1.wherever-the-synology-is-DHCPd-today`
@@ -273,8 +284,9 @@ EOF
 
 ### Kindle reader 
 
-### <https://krisp.ai/>
+### Background noise deadening app
 
+<https://krisp.ai/>
 
 ### Clojure
 
@@ -346,6 +358,18 @@ alias brew="env PATH=${PATH//$(pyenv root)\/shims:/} brew" # from https://github
     EOF
     ```
     
+### Ruby
+
+```
+brew install rbenv
+```
+
+Also pay attention to what it outputs at the end, that you have to add this to you `.bashrc` or whatever startup script you use:
+
+```
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
+```
+
 ### Elm
 
 [Mac Elm installer](https://github.com/elm/compiler/releases/download/0.19.0/installer-for-mac.pkg)
@@ -353,6 +377,9 @@ alias brew="env PATH=${PATH//$(pyenv root)\/shims:/} brew" # from https://github
 brew install elm-format
 npm install -g elm-test
 ```
+
+### Haskell
+<https://www.haskell.org/platform/mac.html>
 
 # Day 2
 
