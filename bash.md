@@ -33,3 +33,26 @@ If you don't have the `realpath` command, which transforms a filename to canonic
 filename=$(cd $(dirname "$filename") && pwd)/$(basename "$filename")
 ```
 
+## Overwriting files, noclobber, all that
+
+If cat is set to not overwrite, to force overwrite a file using `>`:
+
+**use `>|` instead** 
+
+## Temp files, dirs
+
+```yaml
+(
+tmpfile=$(mktemp)
+cat >| "$tmpfile"<<EOF
+HI THERE I AM A TEMP FILE
+EOF
+cat "$tmpfile"
+)
+```
+
+```
+(cd $(mktemp -d) && echo I AM IN TEMP DIR $PWD) 
+```
+
+

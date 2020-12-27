@@ -372,7 +372,7 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 
 ### Elm
 
-[Mac Elm installer](https://github.com/elm/compiler/releases/download/0.19.0/installer-for-mac.pkg)
+[Mac Elm installer](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg)
 ```bash
 brew install elm-format
 npm install -g elm-test
