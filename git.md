@@ -32,7 +32,7 @@ Then in `~/Some-Directory/gitconfig-includes`:
 ```
 [user]
         name = Carlton Schuyler
-        email = cschuyler@dragnon.com
+        email = cschuyle@dragnon.com
 ```
 
 ### Sort branches by last commit date:
