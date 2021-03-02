@@ -100,6 +100,11 @@ sudo rm -rf /Library/Developer/CommandLineTools
 xcode-select --install
 ```
 
+To switch versions:
+```
+xcode-select -s /Applications/Xcode_12.4.app/Contents/Developer/
+```
+
 ### SourceTree
 
 <https://www.sourcetreeapp.com/>
