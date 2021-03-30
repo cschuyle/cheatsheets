@@ -60,3 +60,9 @@ git filter-repo --mailmap path-to/my-mailmap
 You'll have to force-push to your master branch.
 
 I haven't tried to do this to several branches.
+
+## Change default branch
+
+```
+git config --global init.defaultBranch main
+```

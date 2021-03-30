@@ -55,4 +55,12 @@ cat "$tmpfile"
 (cd $(mktemp -d) && echo I AM IN TEMP DIR $PWD) 
 ```
 
+## Variable substitution
 
+`${var//replace/sub}`
+
+e.g. remove slashes from git branch:
+
+```
+cleaned_git_branch="${git_branch//\//_}"
+```
