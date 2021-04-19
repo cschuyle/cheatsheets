@@ -2,7 +2,7 @@
 
 branches='list
 your
-brnach/names
+branch/names
 here'
 
 for branch in $branches
