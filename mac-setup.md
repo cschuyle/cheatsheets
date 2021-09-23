@@ -133,6 +133,12 @@ EOF
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
+To install without root:
+
+```
+mkdir "$HOME/homebrew" && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C "$HOME/homebrew"
+```
+
 ### jenv
 
 ```
@@ -154,7 +160,7 @@ EOF
 brew install openssl readline sqlite3 xz zlib # Yeah the follwing ones will transitively install all that xcept zlib, but it makes me feel good to install the libs first
 brew install perl
 brew install python
-brew install emacs
+brew install homebrew/cask/emacs
 brew install gnu-sed
 brew install findutils
 brew install git
@@ -167,7 +173,7 @@ brew install tree
 brew install jq
 brew install libdvdcss
 brew install csvkit
-brew install wget
+brew install wget # This has LOTS of dependencies
 brew install httpie
 brew install jenv
 brew install node
@@ -236,6 +242,12 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 
 EOF
 ```
+
+### Change default shell
+```
+chsh -s `which bash`
+```
+(might have to add the shell to `/etc/shells`)
 
 ## Maybe not everyone's cuppa tea:
 
