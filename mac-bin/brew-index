@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+brew list --formula |\
+  while read formula; do
+    brew list $formula |\
+    while read file; do
+      echo -e "$formula\t$file" # need -e to expand \t
+    done
+done

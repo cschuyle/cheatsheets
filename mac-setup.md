@@ -39,13 +39,13 @@ You need to logout and back in for that last one to take effect
 
 - Settings / Don't update App Store apps automatically
 
-- Settings / Date Time - 24 hour, show date
+- Settings / Language & Region - 24 hour, show date
 
 - Apple Music
     - Do not copy files when importing
     - Import using Custom / MP3 / VBR / 320Kbps
     
-### Chrome
+### Brave
 
 ### Flycut
 Also System Settings / Login Items, add Flycut to the apps that startup at login time
@@ -55,7 +55,6 @@ Also System Settings / Login Items, add Flycut to the apps that startup at login
 ### iTerm2
 - Config:
     - Preferences / Profiles
-        - Enable pixel sub-aliasing
         - 20,000 line scrollback
         - About 10% transparent
     - Preferences / Appearance
@@ -159,10 +158,9 @@ EOF
 ```
 brew install openssl readline sqlite3 xz zlib # Yeah the follwing ones will transitively install all that xcept zlib, but it makes me feel good to install the libs first
 brew install perl
-brew install python
 brew install homebrew/cask/emacs
-brew install gnu-sed
-brew install findutils
+brew install gnu-sed # gsed
+brew install findutils # gfind etc
 brew install git
 brew install gradle
 brew install maven
@@ -181,11 +179,18 @@ brew install watch
 brew install tre # for agrep. https://github.com/laurikari/tre
 brew install kubernetes-cli
 brew tap heroku/brew && brew install heroku
-brew install gdub
-brew install coreutils
+brew install coreutils # (106 commands in /opt/homebrew/opt/coreutils/libexec/gnubin)
 brew install bcrypt
-brew install gnu-tar
+brew install gnu-tar # gtar
+brew install imagemagick
 ```
+
+You could add this to your PATH before the other bin dirs to make GNU exes override the other ones:
+```
+echo PATH="/opt/homebrew/opt/coreutils/libexec/gnubin:$PATH"
+```
+
+AWS CLI
 
 ```bash
 brew cask install WebPQuickLook
@@ -301,7 +306,10 @@ EOF
 
 ### Kindle reader 
 
-### Background noise deadening app
+### Discord
+
+### 1Password
+
 
 <https://krisp.ai/>
 

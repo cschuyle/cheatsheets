@@ -1,0 +1,6 @@
+#!/usr/bin/env nu
+
+git log --pretty=%h»¦«%s»¦«%aN»¦«%aE»¦«%aD |
+    lines |
+    split column "»¦«" commit subject name email date |
+    upsert date {$in.date | into datetime}

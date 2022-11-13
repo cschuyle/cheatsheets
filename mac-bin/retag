@@ -1,0 +1,13 @@
+#!/usr/bin/env nu
+
+def git-nulog [] {
+let $tagshas = (
+    git log --pretty=%h»¦«%s»¦«%aN»¦«%aE»¦«%aD |
+        lines |
+        split column "»¦«" commit subject
+    )
+
+let ret = ($tagshas | get subject | each { $in | parse --regex '.*<([^>]+)>.*' })
+$ret
+}
+git-nulog|to json
