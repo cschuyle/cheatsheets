@@ -26,8 +26,9 @@ It's _way_ better than Christmas
     
 -   Click `Use as Defaults` button
 
+To make .-files show up in Finder:
 ```
-sudo chflags nohidden /
+sudo chflags nohidden
 write com.apple.finder AppleShowAllFiles TRUE
 ```
 
