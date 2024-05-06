@@ -184,6 +184,7 @@ brew install coreutils # (106 commands in /opt/homebrew/opt/coreutils/libexec/gn
 brew install bcrypt
 brew install gnu-tar # gtar
 brew install imagemagick
+brew install rename
 ```
 
 You could add this to your PATH before the other bin dirs to make GNU exes override the other ones:
@@ -193,11 +194,7 @@ echo PATH="/opt/homebrew/opt/coreutils/libexec/gnubin:$PATH"
 
 AWS CLI
 
-```bash
-brew cask install WebPQuickLook
-# Then allow it in System Setting / Security, or from the command line:
-xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator
-```
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 ```
 brew install minikube

@@ -25,7 +25,39 @@ EOF
   exit 2
 fi
 
+# USAGE: echoerr "Done. Got $(trim $(wc -l < kanopy.txt)) Kanopy movies.
+trim() { echo "$@"|xargs; }
+
 set -o nounset # set -u
+
+# USAGE: echoerr That did NOT work
+echoerr() { cat <<< "$@" 1>&2; }
+
+# USAGE:
+# if [ ! $(cmdExists 'xyzzy') ]; then
+#   ... 
+# fi
+cmdExists() {
+    cmdName=$1
+    cmdLoc="$(type -p "$cmdName")" || [ -z $cmdLoc ]
+    echo $cmdLoc
+}
+
+# USAGE: dots CURRENT_PAGE PAGE_SIZE COUNT_NOTIFICATION_INTERVAL
+dots() {
+    local page=$1
+    local pageSize=$2
+    local mod=$3
+    if [ $page -ne 0 ]
+    then
+        if [ $(expr $page \* $pageSize % $mod) -eq 0 ]
+        then
+            echoerr "$(expr $page \* $pageSize)\n"
+        else
+            echoerr "."
+        fi
+    fi
+}
 ```
 
 If you don't have the `realpath` command, which transforms a filename to canonical/normalized form:
