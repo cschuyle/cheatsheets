@@ -1,0 +1,1023 @@
+{
+  "id": "little-prince-italian",
+  "name": "The Little Prince in Italian dialects",
+  "shortName": "Little Prince - Languages of Italy",
+  "items": [
+    {
+      "littlePrinceItem": {
+        "title": "U Prengepine - The Little Prince, in Italian Apulo-Barese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianApulo-Barese PP-3591.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianApulo-Barese PP-3591.gif",
+        "language": "Italian Apulo-Barese",
+        "translator": "Vito Signorile",
+        "year": "2015",
+        "publication-location": "Bari",
+        "isbn13": "978-88-98286-35-5",
+        "publisher": "Gelsorosso",
+        "lpid": "PP-3591"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "U Príncepe Pecceninne - The Little Prince, in Italian Apulo-Barese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianApulo-Barese PP-5604.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianApulo-Barese PP-5604.gif",
+        "language": "Italian Apulo-Barese",
+        "translator": "Onofrio Caradonna",
+        "year": "2017",
+        "publication-location": "",
+        "isbn13": "-",
+        "publisher": "-",
+        "lpid": "PP-5604"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "Ol Principì - The Little Prince, in Italian Bergamasque",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianBergamasque PP-3781.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianBergamasque PP-3781.gif",
+        "language": "Italian Bergamasque",
+        "translator": "Umberto Zanetti",
+        "year": "2016",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-946190-27-1",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3781"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "Al Pränzip Fangén - The Little Prince, in Italian Bolonese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianBolonese PP-2504.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianBolonese PP-2504.gif",
+        "language": "Italian Bolonese",
+        "translator": "Roberto Serra & Bertéin Sèra",
+        "year": "2012",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-10-7",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-2504"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Bolonese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianBolonese PP-387.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianBolonese PP-387.gif",
+        "language": "Italian Bolonese",
+        "translator": "Roberto Serra",
+        "year": "2003",
+        "publication-location": "Gressan",
+        "isbn13": "88-87719-25-X",
+        "publisher": "Wesakeditions",
+        "lpid": "PP-387"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Bolonese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianBolonese PP-4931.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianBolonese PP-4931.gif",
+        "language": "Italian Bolonese",
+        "translator": "Gabriele Stanzani",
+        "year": "2018",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-780",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-4931"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Canegrate dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianCanegrate dialect PP-6540.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianCanegrate dialect PP-6540.gif",
+        "language": "Italian Canegrate dialect",
+        "translator": "Annunciata Colombo",
+        "year": "2022",
+        "publication-location": "Legnano",
+        "isbn13": "",
+        "publisher": "La Mano Edizioni",
+        "lpid": "PP-6540"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Cassinese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianCassinese PP-5807.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianCassinese PP-5807.gif",
+        "language": "Italian Cassinese",
+        "translator": "Giuseppe Cossuto",
+        "year": "2020",
+        "publication-location": "Torrazza Piemonte",
+        "isbn13": "979-85-7395-153-9",
+        "publisher": "Giuseppe Cossuto",
+        "lpid": "PP-5807"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in ItalianCittà di Castello dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianCittà di Castello dialect PP-6143.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianCittà di Castello dialect PP-6143.gif",
+        "language": "Italian Città di Castello dialect",
+        "translator": "Matteo Nunzi",
+        "year": "2021",
+        "publication-location": "Torrazza Piemonte",
+        "isbn13": "979-87-76-51263-6",
+        "publisher": "Matteo Nunzi",
+        "lpid": "PP-6143"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Città di Castello dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianCittà di Castello dialect PP-6147.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianCittà di Castello dialect PP-6147.gif",
+        "language": "Italian Città di Castello dialect",
+        "translator": "Matteo Nunzi",
+        "year": "2021",
+        "publication-location": "Torrazza Piemonte",
+        "isbn13": "979-87-56239-76-8",
+        "publisher": "Matteo Nunzi",
+        "lpid": "PP-6147"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Emiliano Modenese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianEmiliano Modenese PP-2979.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianEmiliano Modenese PP-2979.gif",
+        "language": "Italian Emiliano Modenese",
+        "translator": "Sandro Bellei",
+        "year": "2014",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-322",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-2979"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Fiuman",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianFiuman PP-4365.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianFiuman PP-4365.gif",
+        "language": "Italian Fiuman",
+        "translator": "Daniela Kružič",
+        "year": "2017",
+        "publication-location": "Zagreb",
+        "isbn13": "978-953-7341-76-3",
+        "publisher": "Naklada Semafora d.o.o.",
+        "lpid": "PP-4365"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Florentine dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianFlorentine dialect PP-4207.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianFlorentine dialect PP-4207.gif",
+        "language": "Italian Florentine dialect",
+        "translator": "Rosella Dabraio",
+        "year": "2017",
+        "publication-location": "Empoli",
+        "isbn13": "978-88-546-1397-3",
+        "publisher": "Ibiskos Editrice Risolo",
+        "lpid": "PP-4207"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Florentine dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianFlorentine dialect PP-7135.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianFlorentine dialect PP-7135.gif",
+        "language": "Italian Florentine dialect",
+        "translator": "Angiolo Ronta",
+        "year": "2023",
+        "publication-location": "Florence",
+        "isbn13": "978-8864-761-350",
+        "publisher": "Piretti Editore",
+        "lpid": "PP-7135"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Leonessa dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLeonessa dialect PP-6163.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLeonessa dialect PP-6163.gif",
+        "language": "Italian Leonessa dialect",
+        "translator": "Galafro Conti",
+        "year": "2022",
+        "publication-location": "Leonessa",
+        "isbn13": "",
+        "publisher": "L'Albero delle Farfalle",
+        "lpid": "PP-6163"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Leonessa dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLeonessa dialect PP-6362.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLeonessa dialect PP-6362.gif",
+        "language": "Italian Leonessa dialect",
+        "translator": "Galafro Conti",
+        "year": "2021",
+        "publication-location": "Leonessa",
+        "isbn13": "-",
+        "publisher": "L'Albero delle Farfalle",
+        "lpid": "PP-6362"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ligurian Genoese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLigurian Genoese PP-1227.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLigurian Genoese PP-1227.gif",
+        "language": "Italian Ligurian Genoese",
+        "translator": "Alessandro Garibbo",
+        "year": "2011",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-937467-93-1",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-1227"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ligurian Genoese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLigurian Genoese PP-3285.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLigurian Genoese PP-3285.gif",
+        "language": "Italian Ligurian Genoese",
+        "translator": "Franco Bampi & Igina Righi D'Alessio",
+        "year": "2015",
+        "publication-location": "Genoa",
+        "isbn13": "978-88-96608-45-6",
+        "publisher": "Coedit Edizioni s.r.l.",
+        "lpid": "PP-3285"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ligurian Genoese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLigurian Genoese PP-5328.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLigurian Genoese PP-5328.gif",
+        "language": "Italian Ligurian Genoese",
+        "translator": "Franco Bampi & Igina Righi D'Alessio",
+        "year": "2015",
+        "publication-location": "Genoa",
+        "isbn13": "978-88-96608-83-8",
+        "publisher": "Coedit Edizioni s.r.l.",
+        "lpid": "PP-5328"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ligurian Tabarkin",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianLigurianTabarkin PP-3548.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianLigurianTabarkin PP-3548.gif",
+        "language": "Italian LigurianTabarkin",
+        "translator": "Margherita Crasto & Maria Carla Siciliano",
+        "year": "2015",
+        "publication-location": "Núgoro",
+        "isbn13": "978-88-98035-10-6",
+        "publisher": "Papiros Editziones",
+        "lpid": "PP-3548"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Macerata dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMacerata dialect PP-6284.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMacerata dialect PP-6284.gif",
+        "language": "Italian Macerata dialect",
+        "translator": "Agostino Regnicoli",
+        "year": "2022",
+        "publication-location": "Montecassiano",
+        "isbn13": "978-88-97374-69-4",
+        "publisher": "Vydia Editore",
+        "lpid": "PP-6284"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Mantovano",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMantovano PP-3571.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMantovano PP-3571.gif",
+        "language": "Italian Mantovano",
+        "translator": "Alfredo Facchini (Fredón)",
+        "year": "2015",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-946190-07-3",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3571"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Milanese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMilanese PP-2505.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMilanese PP-2505.gif",
+        "language": "Italian Milanese",
+        "translator": "Lorenz Banfi",
+        "year": "2012",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-11-4",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-2505"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in ItalianMilanese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMilanese PP-3390.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMilanese PP-3390.gif",
+        "language": "Italian Milanese",
+        "translator": "Gianfranco Giandini",
+        "year": "2015",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-346",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-3390"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Milanese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMilanese PP-451.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMilanese PP-451.gif",
+        "language": "Italian Milanese",
+        "translator": "Lorenz Banfi",
+        "year": "2002",
+        "publication-location": "Gressan",
+        "isbn13": "88-87719-17-9",
+        "publisher": "Wesakeditions",
+        "lpid": "PP-451"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Molisano",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMolisano PP-3713.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMolisano PP-3713.gif",
+        "language": "Italian Molisano",
+        "translator": "Aleandro Lombardi & Frederica Urbani",
+        "year": "2016",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-946190-09-7",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3713"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Montebelluna dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianMontebelluna dialect PP-4761.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianMontebelluna dialect PP-4761.gif",
+        "language": "Italian Montebelluna dialect",
+        "translator": "Danilo & Teresa Zanetti",
+        "year": "2018",
+        "publication-location": "Montebelluna",
+        "isbn13": "978-88-97891-52-9",
+        "publisher": "Libreria Zanetti",
+        "lpid": "PP-4761"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Neapolitan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianNeapolitan PP-1331.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianNeapolitan PP-1331.gif",
+        "language": "Italian Neapolitan",
+        "translator": "Roberto D'Ajello",
+        "year": "2000",
+        "publication-location": "Naples",
+        "isbn13": "88-87365-17-2",
+        "publisher": "Franco Di Mauro Editore",
+        "lpid": "PP-1331"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Neapolitan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianNeapolitan PP-202.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianNeapolitan PP-202.gif",
+        "language": "Italian Neapolitan",
+        "translator": "Roberto D'Ajello",
+        "year": "2003",
+        "publication-location": "Sorrento",
+        "isbn13": "88-87365-35-0",
+        "publisher": "Franco Di Mauro Editore",
+        "lpid": "PP-202"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Neapolitan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianNeapolitan PP-3590.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianNeapolitan PP-3590.gif",
+        "language": "Italian Neapolitan",
+        "translator": "Edo & Debora Albano",
+        "year": "2015",
+        "publication-location": "Brescia",
+        "isbn13": "978-88-98858-37-8",
+        "publisher": "Libereedizioni",
+        "lpid": "PP-3590"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Neapolitan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianNeapolitan PP-4865.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianNeapolitan PP-4865.gif",
+        "language": "Italian Neapolitan",
+        "translator": "Roberto D'Ajello",
+        "year": "2017",
+        "publication-location": "Sorrento",
+        "isbn13": "978-88-87365-35-1",
+        "publisher": "Franco Di Mauro Editore",
+        "lpid": "PP-4865"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Neapolitan Puteolano dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianNeapolitan Puteolano dialect PP-6281.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianNeapolitan Puteolano dialect PP-6281.gif",
+        "language": "Italian Neapolitan Puteolano dialect",
+        "translator": "Luigi Di Razza",
+        "year": "2022",
+        "publication-location": "Naples",
+        "isbn13": "978-88-96833-25-4",
+        "publisher": "Il Punto di Partenza",
+        "lpid": "PP-6281"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in ItalianParmesan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianParmesan PP-1540.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianParmesan PP-1540.gif",
+        "language": "Italian Parmesan",
+        "translator": "Paolo Porcari",
+        "year": "2011",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-02-2",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-1540"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Perugini",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianPerugini PP-3468.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianPerugini PP-3468.gif",
+        "language": "Italian Perugini",
+        "translator": "Giorgio Orazi",
+        "year": "2015",
+        "publication-location": "Perugia",
+        "isbn13": "978-88-6074-123-3",
+        "publisher": "Morlacchi Editore",
+        "lpid": "PP-3468"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Pesarese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianPesarese PP-3329.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianPesarese PP-3329.gif",
+        "language": "Italian Pesarese",
+        "translator": "Paolo Cappelloni",
+        "year": "2015",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-86-2",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3329"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Piedmontese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianPiedmontese PP-1158.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianPiedmontese PP-1158.gif",
+        "language": "Italian Piedmontese",
+        "translator": "Adriana Chiabrando",
+        "year": "2005",
+        "publication-location": "Turin",
+        "isbn13": "88-88552-21-9",
+        "publisher": "Il Punto & Gioventura Piemontèisa",
+        "lpid": "PP-1158"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Piedmontese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianPiedmontese PP-4368.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianPiedmontese PP-4368.gif",
+        "language": "Italian Piedmontese",
+        "translator": "Elena Bruzone",
+        "year": "2017",
+        "publication-location": "Rivoli",
+        "isbn13": "978-88-97933-44-1",
+        "publisher": "Edizioni Susalibri",
+        "lpid": "PP-4368"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Piedmontese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianPiedmontese PP-664.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianPiedmontese PP-664.gif",
+        "language": "Italian Piedmontese",
+        "translator": "Gianluca Pierrini",
+        "year": "2000",
+        "publication-location": "Turin",
+        "isbn13": "-",
+        "publisher": "Gioventura Piemontèisa",
+        "lpid": "PP-664"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Reatino",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianReatino PP-3293.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianReatino PP-3293.gif",
+        "language": "Italian Reatino",
+        "translator": "Stefano Mariantoni",
+        "year": "2015",
+        "publication-location": "Rieti",
+        "isbn13": "978-88-99233-03-7",
+        "publisher": "Funambolo Edizioni",
+        "lpid": "PP-3293"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Reggiano Alpin",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianReggiano Alpin PP-2481.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianReggiano Alpin PP-2481.gif",
+        "language": "Italian Reggiano Alpin",
+        "translator": "",
+        "year": "2002",
+        "publication-location": "Reggio Emilia",
+        "isbn13": "-",
+        "publisher": "-",
+        "lpid": "PP-2481"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Reggiano Arsan",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianReggiano Arsan PP-3528.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianReggiano Arsan PP-3528.gif",
+        "language": "Italian Reggiano Arsan",
+        "translator": "Giuliano Bagnoli",
+        "year": "2015",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-100",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-3528"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Romagnol",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianRomagnol PP-2611.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianRomagnol PP-2611.gif",
+        "language": "Italian Romagnol",
+        "translator": "Renzo Bertaccini & Gilberto Casadio",
+        "year": "2012",
+        "publication-location": "Bologna",
+        "isbn13": "978-88-6476-030-8",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-2611"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Romanesco",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianRomanesco PP-1556.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianRomanesco PP-1556.gif",
+        "language": "Italian Romanesco",
+        "translator": "Maurizio Marcelli",
+        "year": "2011",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-100",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-1556"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Salentino",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianSalentino PP-3330.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianSalentino PP-3330.gif",
+        "language": "Italian Salentino",
+        "translator": "Emanuele Barbati",
+        "year": "2015",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-85-5",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3330"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Sicilian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianSicilian PP-5455.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianSicilian PP-5455.gif",
+        "language": "Italian Sicilian",
+        "translator": "J. Paolo Fisco Zaia",
+        "year": "2019",
+        "publication-location": "Núgoro",
+        "isbn13": "978-88-98035-68-7",
+        "publisher": "Papiros Editziones",
+        "lpid": "PP-5455"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Sicilian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianSicilian PP-6010.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianSicilian PP-6010.gif",
+        "language": "Italian Sicilian",
+        "translator": "Mario Gallo",
+        "year": "2017",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-937467-71-9",
+        "publisher": "Tintenfass",
+        "lpid": "PP-6010"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Sicilian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianSicilian PP-999.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianSicilian PP-999.gif",
+        "language": "Italian Sicilian",
+        "translator": "Mario Gallo",
+        "year": "2010",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-937467-71-9",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-999"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Teramano",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTeramano PP-3325.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTeramano PP-3325.gif",
+        "language": "Italian Teramano",
+        "translator": "Bruno Di Pasquale",
+        "year": "2015",
+        "publication-location": "Popoli",
+        "isbn13": "978-88-97028-21-5",
+        "publisher": "Riccardo Condó Editore",
+        "illustrator": "Michelangelo Mammoliti",
+        "lpid": "PP-3325"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ticinese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTicinese PP-2247.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTicinese PP-2247.gif",
+        "language": "Italian Ticinese",
+        "translator": "Marisa & Gianni Ballabio",
+        "year": "2006",
+        "publication-location": "Lugano",
+        "isbn13": "-",
+        "publisher": "-",
+        "lpid": "PP-2247"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ticinese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTicinese PP-2851.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTicinese PP-2851.gif",
+        "language": "Italian Ticinese",
+        "translator": "Marisa & Gianni Ballabio",
+        "year": "2008",
+        "publication-location": "Bellinzona",
+        "isbn13": "978-88-7713-537-7",
+        "publisher": "Istituto Editoriale Ticinese",
+        "lpid": "PP-2851"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ticinese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTicinese PP-3326.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTicinese PP-3326.gif",
+        "language": "Italian Ticinese",
+        "translator": "Marisa & Gianni Ballabio",
+        "year": "2015",
+        "publication-location": "Bellinzona",
+        "isbn13": "978-88-7713-703-6",
+        "publisher": "Istituto Editoriale Ticinese",
+        "lpid": "PP-3326"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Ticinese",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTicinese PP-344.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTicinese PP-344.gif",
+        "language": "Italian Ticinese",
+        "translator": "Marisa & Gianni Ballabio",
+        "year": "2008",
+        "publication-location": "Bellinzona",
+        "isbn13": "978-88-7713-537-7",
+        "publisher": "Istituto Editoriale Ticinese",
+        "lpid": "PP-344"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Trentino dialect",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianTrentino dialect PP-3749.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianTrentino dialect PP-3749.gif",
+        "language": "Italian Trentino dialect",
+        "translator": "Umberto Raffaelli",
+        "year": "2016",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-381-1",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-3749"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-3413.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-3413.gif",
+        "language": "Italian Venetian",
+        "translator": "Adriano De Angeli",
+        "year": "2015",
+        "publication-location": "Bologna",
+        "isbn13": "978-8864-760-384",
+        "publisher": "Massimiliano Piretti Editore",
+        "lpid": "PP-3413"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-3481.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-3481.gif",
+        "language": "Italian Venetian",
+        "translator": "Lorenzo Somma",
+        "year": "2015",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-358-3",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-3481"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-3634.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-3634.gif",
+        "language": "Italian Venetian",
+        "translator": "Sergio & Teresa Zangirolami",
+        "year": "2015",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-87073-95-9",
+        "publisher": "Edizioni Antilia",
+        "lpid": "PP-3634"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-4759.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-4759.gif",
+        "language": "Italian Venetian",
+        "translator": "Sergio & Teresa Zangirolami",
+        "year": "2017",
+        "publication-location": "Montebelluna",
+        "isbn13": "978-88-97891-47-5",
+        "publisher": "Libreria Zanetti",
+        "lpid": "PP-4759"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-4760.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-4760.gif",
+        "language": "Italian Venetian",
+        "translator": "Roberto Alpago",
+        "year": "2016",
+        "publication-location": "Vittorio Veneto",
+        "isbn13": "-",
+        "publisher": "Dario De Bastiani Editore",
+        "lpid": "PP-4760"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-5725.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-5725.gif",
+        "language": "Italian Venetian",
+        "translator": "Lorenzo Somma",
+        "year": "2020",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-530-3",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-5725"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian Venetian",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVenetian PP-7152.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVenetian PP-7152.gif",
+        "language": "Italian Venetian",
+        "translator": "Roberto Alpago",
+        "year": "approx.&nbsp;2023",
+        "publication-location": "Venice",
+        "isbn13": "",
+        "publisher": "Acqua Alta",
+        "lpid": "PP-7152"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect of Veneto",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVeneto PP-201.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVeneto PP-201.gif",
+        "language": "Italian Veneto",
+        "translator": "Nicoletta Penello",
+        "year": "2003",
+        "publication-location": "Gressan",
+        "isbn13": "88-87719-24-1",
+        "publisher": "Wesakeditions",
+        "lpid": "PP-201"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect of Veneto",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVeneto PP-2503.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVeneto PP-2503.gif",
+        "language": "Italian Veneto",
+        "translator": "Nicoletta Penello",
+        "year": "2012",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-13-8",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-2503"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Veneto",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVeneto PP-3338.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVeneto PP-3338.gif",
+        "language": "Italian Veneto",
+        "translator": "Nicoletta Penello",
+        "year": "2015",
+        "publication-location": "Neckarsteinach",
+        "isbn13": "978-3-943052-13-8",
+        "publisher": "Edition Tintenfass",
+        "lpid": "PP-3338"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Vicentino",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - ItalianVicentino PP-5330.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - ItalianVicentino PP-5330.gif",
+        "language": "Italian Vicentino",
+        "translator": "Anna Trevisan",
+        "year": "2019",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-662-1",
+        "publisher": "Editoriale Programma s.r.l.",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-5330"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Brescia",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Brescia PP-4067.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Brescia PP-4067.gif",
+        "language": "Italian from Brescia",
+        "translator": "Elena Campelli & Dario Piva",
+        "year": "2016",
+        "publication-location": "Piacenza",
+        "isbn13": "-",
+        "publisher": "Papero Editore",
+        "lpid": "PP-4067"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Cosenza (Calabria)",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Cosenza (Calabria) PP-3969.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Cosenza (Calabria) PP-3969.gif",
+        "language": "Italian from Cosenza (Calabria)",
+        "translator": "Lindo Nudo",
+        "year": "2016",
+        "publication-location": "Soveria Mannelli",
+        "isbn13": "978-88-498-4939-4",
+        "publisher": "Rubbettino",
+        "lpid": "PP-3969"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Livorno",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Livorno PP-3750.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Livorno PP-3750.gif",
+        "language": "Italian from Livorno",
+        "translator": "Paolo Ruffini",
+        "year": "2016",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-376-7",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-3750"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian from Piacenza",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Piacenza PP-3545.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Piacenza PP-3545.gif",
+        "language": "Italian from Piacenza",
+        "translator": "Piergiorgio Barbieri",
+        "year": "2015",
+        "publication-location": "Piacenza",
+        "isbn13": "-",
+        "publisher": "Papero Editore",
+        "lpid": "PP-3545"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian from Terni",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Terni PP-3970.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Terni PP-3970.gif",
+        "language": "Italian from Terni",
+        "translator": "Mario Menghini",
+        "year": "2016",
+        "publication-location": "Terni",
+        "isbn13": "978-88-96051-88-7",
+        "publisher": "Morphema Editrice",
+        "lpid": "PP-3970"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Trieste",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Trieste PP-3480.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Trieste PP-3480.gif",
+        "language": "Italian from Trieste",
+        "translator": "Valentina Burolo & Andrea Andolina",
+        "year": "2015",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-365-1",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-3480"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Val di Cornia",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Val di Cornia PP-3576.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Val di Cornia PP-3576.gif",
+        "language": "Italian from Val di Cornia",
+        "translator": "Francesca Tosca Robicci",
+        "year": "2015",
+        "publication-location": "Piombino",
+        "isbn13": "978-88-6615-120-3",
+        "publisher": "La Bancarella Editrice",
+        "lpid": "PP-3576"
+      }
+    },
+    {
+      "littlePrinceItem": {
+        "title": "The Little Prince, in Italian dialect from Verona",
+        "largeImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/1500/little prince - Italianfrom Verona PP-5399.gif",
+        "smallImageUrl": "https://moocho-test.s3-us-west-2.amazonaws.com/public/little-prince/images/150/little prince - Italianfrom Verona PP-5399.gif",
+        "language": "Italian from Verona",
+        "translator": "Pietro Sofia",
+        "year": "2019",
+        "publication-location": "Treviso",
+        "isbn13": "978-88-6643-670-6",
+        "publisher": "Editoriale Programma",
+        "illustrator": "Marco Gavagnin",
+        "lpid": "PP-5399"
+      }
+    }
+  ]
+}
